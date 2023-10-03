@@ -1,2 +1,2 @@
 [build]
-  command = "nohup bash -c 'sleep 120' &"
+  command = "nohup bash -c 'sleep 5' &"
